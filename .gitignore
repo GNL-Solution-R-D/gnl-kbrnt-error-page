@@ -1,0 +1,20 @@
+## IDEs
+/.idea
+/.vscode
+
+## Binaries
+/error-pages
+/builder
+
+## AI shit
+/.copilot
+/.cursor
+/.claude
+/.windsurf
+/.aider*
+/.gemini
+
+## Temp dirs & trash
+/temp
+/tmp
+/*-old
